@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stone-Paper-Scissors-Game/static/css/main.8f2fd4da.css",
+    "main.js": "/Stone-Paper-Scissors-Game/static/js/main.670c4853.js",
+    "static/js/453.290d0904.chunk.js": "/Stone-Paper-Scissors-Game/static/js/453.290d0904.chunk.js",
+    "index.html": "/Stone-Paper-Scissors-Game/index.html",
+    "main.8f2fd4da.css.map": "/Stone-Paper-Scissors-Game/static/css/main.8f2fd4da.css.map",
+    "main.670c4853.js.map": "/Stone-Paper-Scissors-Game/static/js/main.670c4853.js.map",
+    "453.290d0904.chunk.js.map": "/Stone-Paper-Scissors-Game/static/js/453.290d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f2fd4da.css",
+    "static/js/main.670c4853.js"
+  ]
+}
